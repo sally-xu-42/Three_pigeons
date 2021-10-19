@@ -1,2 +1,2 @@
 # Three_pigeons
-Collection of HS21 Advanced Machine Learning Projects
+Collection of ETH HS21 Advanced Machine Learning Projects
